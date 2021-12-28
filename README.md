@@ -21,7 +21,7 @@ Help to drink water
 
 ## Features
 
-- ⚛️ **React** — A lib that provides a way to create web app
+- ⚛️ **React Native** — A lib that provides a way to create web app
 - 💅 **Styled Components** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 - 👾 **React-native-reanimated** — Animated component
